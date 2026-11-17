@@ -113,7 +113,7 @@ h1 {
   font-style: normal;
   color: #fff;
   text-transform: uppercase;
-  word-spacing: 0.73px;
+  word-spacing: 0.852px;
 }
 
 .button_bet {
@@ -324,4 +324,4 @@ background-image: url(/images/photo\ \(2\).png);
   color: #000;
   text-align: center;
   list-style-type: none;
-}/* место для вашего кода */
+}
