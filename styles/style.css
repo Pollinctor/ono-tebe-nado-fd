@@ -3,8 +3,8 @@
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
     width: 1100px;
-    height: 293px;
     margin: 0 auto;
+    padding: 92px 50px 96px;
 }
 
 .ulh{
@@ -29,6 +29,7 @@ list-style: none;
     font: 400 18px/24px 'Raleway', sans-serif;
     color: #000;
   text-underline-offset: 5px;
+    justify-self: end;
 }
 .logo_link{
     grid-column: 2;
